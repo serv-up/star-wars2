@@ -1,2 +1,2 @@
 import {createContext} from "react";
-export const TwitterContext = createContext();
+export const SWContext = createContext();
